@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Michael 🖖
+I'm a full-stack web developer willing to learn any technology to get the job done. My favourite tech to work with is Node.js, Express.js, Sequelize ORM and React.js.
 
 <!--
 **michaelacook/michaelacook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
