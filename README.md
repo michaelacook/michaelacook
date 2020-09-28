@@ -3,7 +3,7 @@ I'm a full-stack web developer willing to learn any technology needed to get a j
 
 :computer: I'm currently working on polishing up some projects, improving my portfolio site, and learning algorithms :muscle:
 
-📫 If you want to get in touch with me, reach out on [LinkedIn](https://www.linkedin.com/in/michael-cook-47151118a/), [Twitter](https://twitter.com/iizcatarrhine), or send me an [email](mailto:mcook0775@gmail.com) :smiley:
+📫 If you want to get in touch with me, reach out on [LinkedIn](https://www.linkedin.com/in/michael-cook-47151118a/), [Twitter](https://twitter.com/iizcatarrhine), or send me an [email](mailto:mcook0775@gmail.com) :envelope:
 
 <!--
 **michaelacook/michaelacook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
