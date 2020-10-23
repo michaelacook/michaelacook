@@ -1,5 +1,5 @@
 ### Hi there, I'm Michael 🖖
-I'm a full-stack web developer willing to learn any technology needed to get a job done. My favourite tech to work with is Node, Express, Sequelize ORM and React. After coding as a hobby for years, I recently completed an online bootcamp and I am now looking for my first professional opportunity :eyes:
+I'm a full-stack web developer and my favourite tech to work with is Node, Express, Sequelize ORM and React. After coding as a hobby for years, I recently completed an online bootcamp and I am now looking for my first professional opportunity :eyes:
 
 :computer: I'm currently working on polishing up some projects, improving my portfolio site, and learning algorithms :muscle:
 
