@@ -1,7 +1,5 @@
 ### Hi there, I'm Michael 🖖
-I'm a software developer who builds for the web with JavaScript, TypeScript and PHP. After programming as a hobby for years, I recently completed an online bootcamp and I am now looking for my first professional opportunity :eyes:
-
-:computer: I'm currently working on polishing up some projects, improving my portfolio site, and learning algorithms :muscle:
+I'm a software developer who builds for the web with JavaScript, TypeScript and PHP.
 
 📫 If you want to get in touch with me, reach out on [LinkedIn](https://www.linkedin.com/in/michael-cook-47151118a/) or send me an [email](mailto:mcook0775@gmail.com) :envelope:
 
