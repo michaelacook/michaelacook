@@ -1,7 +1,7 @@
 ### Hi there, I'm Michael 🖖
 I'm a software developer who builds for the web with JavaScript, TypeScript and PHP.
 
-📫 If you want to get in touch with me, reach out on [LinkedIn](https://www.linkedin.com/in/michael-cook-47151118a/) or send me an [email](mailto:mcook0775@gmail.com) :envelope:
+📫 If you want to get in touch send me an [email](mailto:mcook0775@gmail.com) :envelope:
 
 <!--
 **michaelacook/michaelacook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
