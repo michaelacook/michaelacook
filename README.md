@@ -1,5 +1,5 @@
 ### Hi there, I'm Michael 🖖
-I'm a software developer who builds for the web with JavaScript, TypeScript and PHP.
+I'm a computer nerd. I have experience as a hobbyist with a wide array of web development technologies, and I am currently pursuing the CompTia A+ certification. I hope to go into cloud computing, devOps and software development. I especially love linux :penguin:
 
 📫 If you want to get in touch send me an [email](mailto:mcook0775@gmail.com) :envelope:
 
