@@ -1,5 +1,5 @@
 ### Hi there, I'm Michael 🖖
-I'm a computer nerd. I have experience as a hobbyist with a wide array of web development technologies, and I am currently pursuing the CompTia A+ certification. I hope to go into cloud computing, devOps and software development. I especially love Linux :penguin:
+I love GNU/Linux and free/libre software :penguin:. I program in Java, PHP, JavaScript, TypeScript, and a dash of C and Assembly. In September I begin a graduate program in IT Infrastructure.
 
 📫 If you want to get in touch send me an [email](mailto:mcook0775@gmail.com) :envelope:
 
