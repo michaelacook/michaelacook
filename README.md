@@ -1,5 +1,5 @@
 ### Hi there, I'm Michael 🖖
-I love GNU/Linux and free/libre software :penguin:. I program in Java, PHP, JavaScript, TypeScript, and a dash of C and Assembly. In September I begin a graduate program in IT Infrastructure.
+I love GNU/Linux and free/libre software :penguin:. I program in Java, PHP, JavaScript, TypeScript, and a dash of C. In September I begin a graduate program in IT Infrastructure.
 
 📫 If you want to get in touch send me an [email](mailto:mcook0775@gmail.com) :envelope:
 
