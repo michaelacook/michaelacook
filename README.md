@@ -1,5 +1,7 @@
 ### Hi there, I'm Michael 🖖
-I love GNU/Linux and free/libre software :penguin:. I program in Java, PHP, JavaScript, TypeScript, and a dash of C. In September I begin a graduate program in IT Infrastructure.
+I am an IT student, aspiring system administrator, and developer. I love technology, but there is a special place in my heart for GNU/Linux and free/libre software :penguin:.
+
+I am currently studying for the Microsoft Certified Azure Administrator certification, working on some projects, and trying to maintain my 4.1 GPA.
 
 📫 If you want to get in touch send me an [email](mailto:mcook0775@gmail.com) :envelope:
 
