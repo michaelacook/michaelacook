@@ -1,4 +1,4 @@
-### Hi there, I'm Michael 🖖
+### Hi there, I'm Mike 🖖
 I am a recent IT graduate searching for my first professional technology role.
 
 I am currently working toward completing the CompTIA A+ and the Microsoft Certified Azure Administrator Associate certifications. I also hope to complete some unfinished programming projects.
