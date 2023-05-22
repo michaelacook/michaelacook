@@ -1,9 +1,9 @@
 ### Hi there, I'm Michael 🖖
-I am an IT student and an aspiring system administrator and developer. I love technology, but there is a special place in my heart for GNU/Linux and free/libre software :penguin:.
+I am a recent IT graduate searching for my first professional technology role.
 
-I am currently studying for the CompTIA Linux+ and Microsoft Certified Azure Administrator certifications, working on some side projects, making a tonne of markdown notes, and trying to maintain my GPA.
+I am currently working toward completing the CompTIA A+ and the Microsoft Certified Azure Administrator Associate certifications. I also hope to complete some unfinished programming projects.
 
-📫 If you want to get in touch send me an [email](mailto:mcook0775@gmail.com) :envelope:
+📫 If you want to get in touch send me an [email](mailto:mcook0775@outlook.com) :envelope:
 
 <!--
 **michaelacook/michaelacook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
