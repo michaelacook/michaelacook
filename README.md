@@ -1,7 +1,7 @@
 ### Hi there, I'm Mike 🖖
-I am a recent IT graduate searching for my first professional technology role.
+I am a help desk technician and recent graduate with an interest in server administration, cloud, IT automation, and web development.
 
-I am currently working toward completing the CompTIA A+ and the Microsoft Certified Azure Administrator Associate certifications. I also hope to complete some unfinished programming projects.
+I am currently working toward completing the CompTIA A+ as well as a whole bunch of learning projects that I *hope* to complete at some point.
 
 📫 If you want to get in touch send me an [email](mailto:mcook0775@outlook.com) :envelope:
 
