@@ -1,7 +1,7 @@
 ### Hi there, I'm Mike 🖖
-I am a help desk technician and recent graduate with an interest in server administration, cloud, IT automation, and web development.
+I am an A+ certified IT technician and compulsive techie tinkerer.
 
-I am currently working toward completing the CompTIA A+ as well as a whole bunch of learning projects that I *hope* to complete at some point.
+I am currently working toward completing the Azure Fundamentals (AZ-900) as well as a whole bunch of learning projects that I *hope* to complete at some point.
 
 📫 If you want to get in touch send me an [email](mailto:mcook0775@outlook.com) :envelope:
 
