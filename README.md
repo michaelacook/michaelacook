@@ -1,5 +1,5 @@
 ### Hi there, I'm Mike 🖖
-I am an A+ certified IT technician and compulsive techie tinkerer.
+I am an A+ certified IT technician and compulsive tinkerer. I'm interested in networking, virtualization and hybrid cloud infrastructure.
 
 I am currently working toward completing the Azure Administrator Associate (AZ-104). I've dabbled in various languages and frameworks in the past, but my current focus is PowerShell for Azure and Windows Server, as well as a bit of Bash.
 
