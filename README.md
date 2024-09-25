@@ -1,7 +1,8 @@
 ### Hey there, I'm Mike 🖖
-I am an A+ certified IT technician and compulsive tinkerer. I'm interested in networking, cloud and virtualization.
+I am an A+ certified IT Technician and compulsive tinkerer. This is where I keep my projects, notes, and code.
 
-I am currently working toward completing the Azure Administrator Associate (AZ-104). I've dabbled in various languages and frameworks in the past, but my current focus is PowerShell for Azure and Windows Server, as well as a bit of Bash.
+I recently completed the Microsoft Certified: Azure Administrator Associate AZ-104, and I am now working towards the Cisco Certified Network Associate - Routing and Switching, and the Microsoft Certified: Windows Server Hybrid Administrator. 
+I am endlessly fascinated by how systems talk to each other, and how they can be implemented, maintained and controlled by automated processes that make everyone's life more awesome.
 
 📫 If you want to get in touch send me an [email](mailto:mcook0775@outlook.com) :envelope:
 
