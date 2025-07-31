@@ -1,8 +1,5 @@
 ### Hey there, I'm Mike 🖖
-I am an IT professional and compulsive tinkerer. This is where I keep my projects, notes, and code. I'm interested in networking, virtualization, and devops.
-
-I recently completed the Microsoft Certified: Azure Administrator Associate AZ-104, and I am now working towards the CCNA 300-201 1.1 Routing and Switching certification. 
-I am endlessly fascinated by how systems talk to each other, and how they can be implemented, maintained and controlled by automated processes that make everyone's life more awesome.
+I am an IT professional and compulsive tinkerer. I hold the Microsoft Certified: Azure Administrator Associate and the Cisco Certified Network Associate certifications. I'm interested in networking, virtualization, Python, and how to make people's jobs and lives easier and more joyful with technology.
 
 📫 If you want to get in touch send me an [email](mailto:mcook0775@outlook.com) :envelope:
 
