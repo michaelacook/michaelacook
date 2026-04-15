@@ -1,7 +1,5 @@
 ### Hey there, I'm Mike 🖖
-I am an IT professional and compulsive tinkerer. I hold the Microsoft Certified: Azure Administrator Associate and the Cisco Certified Network Associate certifications. I'm interested in networking, virtualization, Python, and how to make people's jobs and lives easier and more joyful with technology.
-
-📫 If you want to get in touch send me an [email](mailto:mcook0775@outlook.com) :envelope:
+I am an IT professional by day and a compulsive tinkerer by night. I am CCNA certified and deeply fascinated by how systems talk to each other, as well as how to make people's jobs and lives easier and more joyful with technology. This is my digital garden, full of notes, a few games, and half-finished, half-baked, and a few half-decent projects. I hope you find something interesting, fun, or useful here.
 
 <!--
 **michaelacook/michaelacook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
